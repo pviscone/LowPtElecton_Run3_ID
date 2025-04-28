@@ -1,0 +1,3 @@
+[submodule "cmgrdf-cli"]
+	path = cmgrdf-cli
+	url = https://github.com/pviscone/cmgrdf-cli.git

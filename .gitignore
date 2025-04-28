@@ -1,0 +1,8 @@
+*.pyc
+*~
+temp/
+temp
+temp*/
+pyproject.toml
+.vscode/
+.venv
